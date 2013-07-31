@@ -1,7 +1,5 @@
 REweb
 
-NOTE: REweb uses eval to execute javascript, Please do NOT use in a production environment.
-
 TODO: make it user friendly.  This is definently not ready for big use.
 
 REweb was written to work with the PIface web interface, by providing a way to push new html and code straight to the page.
